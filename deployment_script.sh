@@ -1,3 +1,4 @@
+cd /
 sudo python3 -m venv venv
  source venv/bin/activate
 sudo pip install Flask
